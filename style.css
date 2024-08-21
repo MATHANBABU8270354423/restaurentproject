@@ -1,6 +1,6 @@
 body{
-    background-size: cover;
-    background-repeat: no-repeat;
+    width: 1500px;
+    height: 800px;
 }
 .top{
     color: whitesmoke;
